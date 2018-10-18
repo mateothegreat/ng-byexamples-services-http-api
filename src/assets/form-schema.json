@@ -1,0 +1,10 @@
+[
+    {
+        "name": "First Name",
+        "type": "text"
+    },
+    {
+        "name": "Last Name",
+        "type": "text"
+    }
+]
